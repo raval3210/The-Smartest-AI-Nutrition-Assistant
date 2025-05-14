@@ -2,13 +2,13 @@
 
 Key Features Implemented:
 
-    Better Datasets: Uses the actual USDA FoodData Central dataset from HuggingFace
+    Used Datasets: Uses the actual USDA FoodData Central dataset from HuggingFace
 
     State-of-the-Art Models: Implements BLIP-2 (more accurate than BLIP) and Flan-T5
 
-    More Robust Nutrition Analysis: Better food matching and nutritional calculations
+    Robust Nutrition Analysis: food matching and nutritional calculations
 
-    Improved Interface: More polished Gradio UI with better organization
+    Interface:  Gradio UI with better organization
 
     Advanced Tracking: NutritionTracker class for comprehensive meal logging
 
@@ -23,3 +23,5 @@ How to Use:
         Meal Plan Generator: Get personalized meal plans based on your profile
 
         Healthier Alternatives: Find better options for specific foods
+
+I have used Google Colab for Implementation and Running the Project.
